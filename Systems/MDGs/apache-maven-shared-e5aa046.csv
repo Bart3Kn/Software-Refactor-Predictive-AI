@@ -1,0 +1,9 @@
+,Verifier,UserModelReader,VerifierTest,Embedded3xLauncher,ForkedLauncher,LauncherException,MavenLauncher,VerificationException
+Verifier,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+UserModelReader,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+VerifierTest,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+Embedded3xLauncher,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+ForkedLauncher,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+LauncherException,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+MavenLauncher,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+VerificationException,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0

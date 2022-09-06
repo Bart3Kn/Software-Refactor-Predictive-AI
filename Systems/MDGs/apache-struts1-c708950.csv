@@ -1,0 +1,7 @@
+,DiskFile,DiskMultipartRequestHandler,MultipartIterator,FormFile,MultipartElement,MultipartRequestHandler
+DiskFile,1.0,1.0,0.0,1.0,0.0,0.0
+DiskMultipartRequestHandler,1.0,1.0,1.0,0.0,1.0,1.0
+MultipartIterator,0.0,1.0,1.0,0.0,1.0,0.0
+FormFile,1.0,0.0,0.0,1.0,0.0,0.0
+MultipartElement,0.0,1.0,1.0,0.0,1.0,0.0
+MultipartRequestHandler,0.0,1.0,0.0,0.0,0.0,1.0

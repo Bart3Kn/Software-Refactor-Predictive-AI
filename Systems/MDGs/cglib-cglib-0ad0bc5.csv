@@ -1,0 +1,5 @@
+,Enhancer,MethodWrapper,Factory,MethodInterceptor
+Enhancer,1.0,1.0,1.0,1.0
+MethodWrapper,1.0,1.0,0.0,0.0
+Factory,1.0,0.0,1.0,1.0
+MethodInterceptor,1.0,0.0,1.0,1.0

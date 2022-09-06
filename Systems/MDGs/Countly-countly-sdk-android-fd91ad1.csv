@@ -1,0 +1,11 @@
+,CountlyActivity,Countly,OpenUDID_manager,OpenUDID_service,ConnectionQueue,DeviceInfo,Event,EventQueue,CountlyStore,ValueComparator
+CountlyActivity,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Countly,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0
+OpenUDID_manager,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+OpenUDID_service,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ConnectionQueue,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+DeviceInfo,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Event,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+EventQueue,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+CountlyStore,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+ValueComparator,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

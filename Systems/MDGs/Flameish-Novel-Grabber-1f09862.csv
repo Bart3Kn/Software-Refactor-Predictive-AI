@@ -1,0 +1,6 @@
+,NovelGrabberGUI,autoFetchChapters,chapterChecker,manFetchChapters,Novel
+NovelGrabberGUI,1.0,1.0,1.0,1.0,1.0
+autoFetchChapters,1.0,1.0,0.0,0.0,0.0
+chapterChecker,1.0,0.0,1.0,0.0,0.0
+manFetchChapters,1.0,0.0,0.0,1.0,0.0
+Novel,1.0,0.0,0.0,0.0,1.0
