@@ -1,0 +1,10 @@
+Verifier,Embedded3xLauncher
+Verifier,ForkedLauncher
+Verifier,LauncherException
+Verifier,MavenLauncher
+Verifier,VerificationException
+Verifier,UserModelReader
+UserModelReader,VerificationException
+VerifierTest,ForkedLauncher
+VerifierTest,VerificationException
+VerifierTest,Verifier

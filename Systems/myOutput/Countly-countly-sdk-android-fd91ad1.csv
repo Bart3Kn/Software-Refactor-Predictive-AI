@@ -1,0 +1,9 @@
+CountlyActivity,Countly
+Countly,ConnectionQueue
+Countly,DeviceInfo
+Countly,Event
+Countly,EventQueue
+Countly,CountlyStore
+Countly,OpenUDID_manager
+OpenUDID_manager,ValueComparator
+OpenUDID_service,OpenUDID_manager
