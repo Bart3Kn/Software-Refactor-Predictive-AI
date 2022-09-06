@@ -1,0 +1,19 @@
+
+=====================================
+
+I need to pass the matrix and some basic information about it:
+- Number of Java Classes
+- Number of clusters
+- EVM Value
+
+
+
+Clustering:
+- labelling data
+  - number of clusters
+  - number of classes
+
+
+Model:
+- Evaluate the accuracy of the model
+- Precision/Recall/
